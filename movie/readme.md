@@ -1,5 +1,4 @@
 # 動画表示の試行<br>
 
-<br>
-[![動画表示テスト](https://user-images.githubusercontent.com/66987573/232353455-0f089080-ed3d-4e64-a527-f5acd9659ea7.jpeg)](https://youtu.be/K1U9LadRydg)
+[![動画表示テスト](https://user-images.githubusercontent.com/66987573/232354261-79689401-2b37-42cc-a6be-fc8866873f16.png)](https://youtu.be/K1U9LadRydg)
 <br>
