@@ -1,1 +1,2 @@
-[!['動画表示テスト']('サムネイル画像のURL')]('[Youtube動画のURL](https://www.youtube.com/watch?v=K1U9LadRydg)')
+![動画表示テスト](https://user-images.githubusercontent.com/66987573/232353455-0f089080-ed3d-4e64-a527-f5acd9659ea7.jpeg)(https://youtu.be/K1U9LadRydg)
+
